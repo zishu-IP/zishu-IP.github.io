@@ -105,7 +105,7 @@ figcaption {
 
 .banner {
 	color: #fff;
-	background: #3acec2;
+	background: linear-gradient( rgba(48, 63, 74, 0.6), rgba(48, 63, 74, 0.6) ), url(../img/road.jpeg);
 	padding: 3.2em 0;
 	margin-bottom: 60px;
 }
