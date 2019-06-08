@@ -8475,6 +8475,10 @@ strong {
   display: inline;
   background: rgba(255, 142, 136, 0.2); }
 
+.highlight-green {
+  display: inline;
+  background: rgba(40, 167, 69, 0.2); }
+
 .alert {
   word-break: break-word; }
 
